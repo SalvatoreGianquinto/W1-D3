@@ -52,3 +52,8 @@ li {
   margin: 0;
   margin-bottom: 2.5em;
 }
+
+.linea-vert {
+  border-left: 2px solid yellow;
+  padding-left: 1em;
+}
